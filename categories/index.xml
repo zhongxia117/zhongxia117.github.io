@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Xiaxia&#39;s BLOG</title>
+    <link>https://www.xiaxia.me/categories/</link>
+    <description>Recent content in Categories on Xiaxia&#39;s BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://www.xiaxia.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>平淡生活</title>
+      <link>https://www.xiaxia.me/categories/%E5%B9%B3%E6%B7%A1%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Fri, 01 Apr 2011 07:03:56 +0000</pubDate>
+      
+      <guid>https://www.xiaxia.me/categories/%E5%B9%B3%E6%B7%A1%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
